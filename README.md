@@ -6,6 +6,7 @@
 - One Dark Pro
 - Markdown All in One
 - Markdownlint
+- Mermaid Markdown Syntax Highlighting SQL 擴展套件
 
 範例
 ```
